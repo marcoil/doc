@@ -93,7 +93,7 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | [Federated wiki](http://fed.wiki.org/view/welcome-visitors/view/federated-wiki) | Farm for fedwiki sites | [Upstream](https://github.com/fedwiki) |  |
 | [Ferdi server](https://getferdi.com) | Messaging aggregation | [Upstream](https://github.com/getferdi/server) |  |
 | [FEX](https://fex.rus.uni-stuttgart.de/) |  |  |  |
-| [FIDI](https://docs.firefly-iii.org/data-importer) | Import data from banks to Firefly |  |  |
+| [Firefly-III Data Importer](https://docs.firefly-iii.org/data-importer) | Import data from files or banks to Firefly | [Upstream](https://github.com/firefly-iii/data-importer) | [Package Draft](https://github.com/marcoil/firefly-iii-di_ynh) |
 | [Filestash](https://www.filestash.app/) |  | [Upstream](https://github.com/mickael-kerjean/filestash) |  |
 | [fishnet](https://lichess.org/get-fishnet) | Distributed Stockfish analysis for lichess.org | [Upstream](https://github.com/niklasf/fishnet) |  |
 | FitTrackee |  | [Upstream](https://github.com/SamR1/FitTrackee) |  |
@@ -134,7 +134,6 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | [Headscale](https://github.com/juanfont/headscale) | An open source, self-hosted implementation of the Tailscale Mesh-VPN control server | [Upstream Daemon](https://github.com/juanfont/headscale) [Upstream UI](https://github.com/gurucomputing/headscale-ui)  |   |
 | Helpy |  | [Upstream](https://github.com/helpyio/helpy) |  |
 | [Hexo](https://hexo.io/) |  | [Upstream](https://github.com/hexojs/hexo) |  |
-| [HistoPad](https://github.com/24eme/histopad) | Web application for logging pads (etherpad) and archiving them in a git repository. | [Upstream](https://github.com/24eme/histopad) |  |
 | Hometown | A Mastodon fork with local-only posting, support for more content types, and other features and tweaks. | [Upstream](https://github.com/hometown-fork/hometown) |  |
 | [htpc-manager](https://htpc.io) | Manage your HTPC from anywhere |  | [Package Draft](https://github.com/scith/htpc-manager_ynh) |
 | [Icecast 2](https://www.icecast.org) |  | [Upstream](https://gitlab.xiph.org/xiph/icecast-server/) |  |
@@ -198,8 +197,7 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | [Nebula](https://nebula.defined.net/docs/) | Scalable overlay networking tool with a focus on performance, simplicity and security. | [Upstream](https://github.com/slackhq/nebula) |  |
 | Netrunner |  | [Upstream](https://github.com/mtgred/netrunner) |  |
 | [Netbird](https://netbird.io/) | Create an overlay peer-to-peer network connecting machines regardless of their location | [Upstream](https://github.com/netbirdio/netbird) | |
-| [nostr] |  |  (https://nostr.com/) | The simplest open protocol that is able to create a censorship-resistant global "social" network once for all.
-| [Upstream] (https://github.com/nostr-protocol/nostr) ||
+| [nostr](https://nostr.com/) | The simplest open protocol that is able to create a censorship-resistant global "social" network once for all. | [Upstream](https://github.com/nostr-protocol/nostr) ||
 | [Netlify CMS](https://netlifycms.org/) | A CMS for any static site generator that connects to a Gitlab/Github repo (requires netlify/gotrue) | [Upstream](https://github.com/netlify/netlify-cms) | |
 | [NewsBlur](https://www.newsblur.com) | This is the most complete RSS reader that exists to date | [Upstream](https://github.com/samuelclay/NewsBlur) |  |
 | nexusoss | Sonatype Nexus Repository manager OSS |  | [Package Draft](https://github.com/YunoHost-Apps/nexusoss_ynh) | 
